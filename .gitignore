@@ -1,0 +1,6 @@
+clone/
+file-sharing-app/
+node_modules/
+file_metadata.db
+uploads/
+.vscode/
